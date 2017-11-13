@@ -1,3 +1,2 @@
 # PerspectiveILM Docs
-http://github.com - automatic!
-[GitHub](http://github.com)
+[a relative link](enterprisebiportal/index.md)
