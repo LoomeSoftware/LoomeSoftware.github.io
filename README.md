@@ -1,2 +1,2 @@
 # PerspectiveILM Docs
-[a relative link](enterprisebiportal/index.md)
+[a relative link](EnterpriseBIPortal/Index.md)
